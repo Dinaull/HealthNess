@@ -1,9 +1,9 @@
 # HealthNess
 
-HealthNess
-Jadi untuk website HealthNess, fokus utamanya adalah pada perhitungan IMT(Indeks Massa Tubuh). Kenapa saya memilih untuk membuat website ini? karena saya ingin untuk membuat website ini dari dulu. Untuk perhitungan IMT nya itu bisa menggunakan rumus: BMI= Tinggi Badan (m) / Berat Badan (kg)**2
+HealthNess adalah website yang fokus utamanya adalah pada perhitungan IMT(Indeks Massa Tubuh). IMT itu akan menghitung status gizi seseorang dilihat dari berat badan dan tinggi badannya. Harapannya website ini dapat membantu orang lain untuk lebih peduli pada tubuh mereka. Untuk menghitung IMT nya itu bisa menggunakan rumus: 
+BMI= Tinggi Badan (m) / Berat Badan (kg)**2.
 
-Untuk IMT sendiri itu apa sih? jadi IMT itu akan menghitung status gizi seseorang dilihat dari berat badan dan tinggi badannya. Kurang lebih seperti itu, dan pada website ini terdapat 3 fitur, diantaranya:
+Pada website ini sendiri, terdapat 3 fitur, diantaranya:
 
 1. Home : untuk preview awal, menjelaskan apa itu IMT, disana juga terdapat header yang akan mengarahkan ke fitur lain. Fitur ini ada pada file Home.html dan styles.css.
 2. IMT : untuk menghitung IMT, dengan memasukkan umur, tinggi badan dan berat badan, harus menggunakan angka, bila tidak menggunakan angka, tidak akan bisa. Difitur ini juga ada tabel untuk melihat kategori IMT. Sama seperti sebelumnya, disana juga ada header yang akan mengarahkan ke fitur lain. Fitur ini ada pada file IMT.html, styles_1.css, js.js.
